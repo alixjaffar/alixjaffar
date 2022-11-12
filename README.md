@@ -2,7 +2,7 @@
 
 [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alixjaffar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-MERCEDES FTW! LEWIS ON TOP!
+MERCEDES FTW! 
 <!--
 Here are some ideas to get you started:
 
