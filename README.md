@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi! You might know me as the Creator of the discord bot Revan, or the roblox studios that made games and cheats named Revan Studios, or you might be here from the hackathon I hosted, also named Revan Hacks. You might have noticed that I use Revan to name everything; I personally don't know why but I just like how it sounds. No matter what you are here from feel free to check my pinned repos and many more!
+
 [![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alixjaffar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 MERCEDES FTW! 
