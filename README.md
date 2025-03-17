@@ -9,6 +9,8 @@ In the past, I’ve been involved in various personal and collaborative projects
 
 Although these projects helped me develop valuable skills, I’m currently focusing on my academic journey and professional growth within the field of data science. Feel free to explore my pinned repositories to see what I’ve been working on. I’m always open to new ideas, collaborations, and opportunities to learn.
 
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alixjaffar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+![Ali’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=alixjaffar&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alixjaffar&layout=compact)
 
