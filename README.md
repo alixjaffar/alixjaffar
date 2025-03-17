@@ -11,4 +11,4 @@ Although these projects helped me develop valuable skills, I’m currently focus
 
 [![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alixjaffar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-**MERCEDES FTW!**
+
